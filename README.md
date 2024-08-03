@@ -1,3 +1,3 @@
 # snake-game
 <br>
-a basic snake game using pithon :)
+a basic snake game using python :)
